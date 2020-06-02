@@ -1,6 +1,6 @@
 # Classification_Models
 
-1 - Breast Cancer Wisconin dataset is used for the different classification models.
+1 - Breast Cancer Wisconsin dataset is used for the different classification models.
 
 2 - BreastCancer.ipynb file contains SVM and RandomForest Classifier.
 
