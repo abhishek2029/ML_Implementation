@@ -4,7 +4,7 @@
 
 2 - BreastCancer.ipynb file contains SVM and RandomForest Classifier.
 
-3 - We then use Linear Regression, Naive Bayes, Decision Tree and kNN classification models.
+3 - We then have Linear Regression, Naive Bayes, Decision Tree and kNN classification models.
 
 4 - We see that random forest classifier gives the highest accuracy rate in comparison to the other models.
 
