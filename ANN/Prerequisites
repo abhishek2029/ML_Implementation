@@ -1,0 +1,9 @@
+#The following libraries are requried: 
+
+Numpy
+Pandas
+sklearn
+matplotlib
+Tensorflow
+
+#An environment for the code to work in like Spyder or Jupyter Notebook.
