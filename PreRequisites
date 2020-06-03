@@ -3,6 +3,6 @@ The following libraries need to be installed:
 Numpy
 Pandas
 Matplotlib
-Tensorflow
+Sklearn
 
 An environment for the code to run in such as Jupyter or Spyder
