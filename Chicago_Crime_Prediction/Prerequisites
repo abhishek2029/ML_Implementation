@@ -1,0 +1,9 @@
+The following libraries are required:
+
+Numpy
+Pandas
+Sklearn
+Matplotlib
+Prophet(install fbprophet and import Prophet)
+
+A working environment like Jupyter notebook or Spyder.
